@@ -1,36 +1,42 @@
-# S.O.S – Sustainable Orbit Sweeper
+# 🛸 S.O.S — Sustainable Orbit Sweeper
 
-## 🚀 Overview
-S.O.S (Sustainable Orbit Sweeper) is a conceptual satellite system designed to detect,
-capture, and recycle space debris in Low Earth Orbit (LEO).
+> 🥉 3rd Place — NASA Space Apps Challenge 2025
+> Team Orion · Orbital Debris Mitigation Mission
 
-🥉 3rd Place Winner – NASA Space Apps Challenge 2025  
-👥 Team Orion
+## The Problem
 
-## 🌍 Problem Statement
-Space debris poses a serious threat to satellites, astronauts, and future space missions.
-Current mitigation methods are limited and costly.
+Low Earth Orbit is becoming critically congested with millions of debris fragments threatening active satellites, human missions, and future space development.
 
-## 💡 Proposed Solution
-A modular satellite system capable of:
-- Detecting orbital debris
-- Capturing debris using adaptive mechanisms
-- Sorting and recycling materials for sustainable space operations
+## Our Solution
 
-## ⚙️ Key Concepts & Technologies
-- Sensor-driven debris detection
-- Adaptive capture mechanisms
-- Modular satellite architecture
-- Sustainable space engineering principles
+A modular satellite designed to actively collect, process, and recycle orbital debris in LEO using two capture systems working together.
 
-## 🧠 System Design Highlights
-- Scalable modular design
-- Feasible deployment in Low Earth Orbit
-- Focus on long-term orbital sustainability
+## Capture Mechanisms
 
-## 🏆 Recognition
-- Awarded for feasibility, innovation, and sustainability
-- Recognized for alignment with real-world space operations
+| Mechanism | Target |
+|---|---|
+| Net-and-gel system | Small debris fragments |
+| Precision laser array | Large fragments |
+| Research core | Studies micro-particles |
+| Recycling unit | Repurposes material as shielding |
 
-## 📌 Notes
-This repository documents the concept, system design, and engineering approach of the project.
+## Vision 2040
+
+| Phase | Units | Coverage |
+|---|---|---|
+| Now | 1 prototype | Single LEO orbit |
+| 2030 | 10 units | Multiple LEO regions |
+| 2040 | 50 units | Full LEO coverage |
+
+## My Role
+
+Mission architecture design, concept documentation, and presentation lead for Team Orion at NASA Space Apps Challenge 2025.
+
+## Recognition
+
+- 3rd Place — NASA Space Apps Challenge 2025
+- Invited Participant — World Space Week 2025, JUST
+
+![NASA](https://img.shields.io/badge/NASA-Space_Apps_2025-E03C31?style=flat-square&logo=nasa&logoColor=white)
+![LEO](https://img.shields.io/badge/LEO-Debris_Cleanup-0D1117?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Concept_Phase-C9A84C?style=flat-square)
