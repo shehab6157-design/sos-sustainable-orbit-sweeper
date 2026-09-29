@@ -11,6 +11,19 @@ Low Earth Orbit is becoming critically congested with millions of debris fragmen
 
 A modular satellite designed to actively collect, process, and recycle orbital debris in LEO using two capture systems working together.
 
+## How It Works
+
+```mermaid
+flowchart LR
+  A[Debris in LEO] --> B{Size}
+  B -->|small fragments| C[Net-and-gel capture]
+  B -->|large fragments| D[Precision laser array]
+  C --> E[Onboard recycling unit]
+  D --> E
+  E --> F[Material reused as shielding]
+  C --> G[Research core studies micro-particles]
+```
+
 ## Capture Mechanisms
 
 | Mechanism | Target |
@@ -27,6 +40,12 @@ A modular satellite designed to actively collect, process, and recycle orbital d
 | Now | 1 prototype | Single LEO orbit |
 | 2030 | 10 units | Multiple LEO regions |
 | 2040 | 50 units | Full LEO coverage |
+
+## Status and Limits
+
+- **Concept phase:** this is a mission concept from a hackathon challenge. No hardware has been built or tested in orbit.
+- **Open engineering questions:** capture reliability, laser safety and power budget, cost per unit, and the rules for handling debris that belongs to other countries all need proper studies before the 2030 and 2040 targets mean anything.
+- **What the team delivered:** the mission architecture, concept documentation and a presentation that placed 3rd at NASA Space Apps Challenge 2025.
 
 ## My Role
 
