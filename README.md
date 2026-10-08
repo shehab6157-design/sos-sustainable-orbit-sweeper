@@ -49,7 +49,7 @@ flowchart LR
 
 ## My Role
 
-Mission architecture design, concept documentation, and presentation lead for Team Orion at NASA Space Apps Challenge 2025.
+Team leader of Team Orion at NASA Space Apps Challenge 2025: mission architecture design, concept documentation, and presentation lead.
 
 ## Recognition
 
