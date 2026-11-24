@@ -1,7 +1,7 @@
-# 🛸 S.O.S — Sustainable Orbit Sweeper
+# S.O.S: Sustainable Orbit Sweeper
 
-> 🥉 3rd Place — NASA Space Apps Challenge 2025
-> Team Orion · Orbital Debris Mitigation Mission
+> 3rd place at NASA Space Apps Challenge 2025
+> Team Orion, orbital debris mitigation mission
 
 ## The Problem
 
@@ -53,8 +53,8 @@ Team leader of Team Orion at NASA Space Apps Challenge 2025: mission architectur
 
 ## Recognition
 
-- 3rd Place — NASA Space Apps Challenge 2025
-- Invited Participant — World Space Week 2025, JUST
+- 3rd place at NASA Space Apps Challenge 2025
+- Invited participant at World Space Week 2025, JUST
 
 ![NASA](https://img.shields.io/badge/NASA-Space_Apps_2025-E03C31?style=flat-square&logo=nasa&logoColor=white)
 ![LEO](https://img.shields.io/badge/LEO-Debris_Cleanup-0D1117?style=flat-square)
